@@ -1,0 +1,1 @@
+-- Consultas SQL desenvolvidas para o case
